@@ -21,7 +21,7 @@
 	antialias
 	background={new THREE.Color('papayawhip')}
 	shadows
-	fog={new THREE.FogExp2('papayawhip', 0.1)}
+	fog={new THREE.FogExp2('papayawhip', 0.07)}
 >
 	<SC.Group position={[0, -6, 0]}>
 		<SC.Mesh
