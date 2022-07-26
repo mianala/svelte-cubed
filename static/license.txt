@@ -1,0 +1,11 @@
+Model Information:
+* title:	Girl Swimsuit
+* source:	https://sketchfab.com/3d-models/girl-swimsuit-461dd6c4a64b40f597b428d04c5a48c5
+* author:	T.art (https://sketchfab.com/dhat38461)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Girl Swimsuit" (https://sketchfab.com/3d-models/girl-swimsuit-461dd6c4a64b40f597b428d04c5a48c5) by T.art (https://sketchfab.com/dhat38461) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
